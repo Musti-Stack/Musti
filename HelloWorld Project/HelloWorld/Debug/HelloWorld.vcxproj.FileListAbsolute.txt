@@ -1,0 +1,2 @@
+C:\Users\WAEL\Desktop\MyRepo\HelloWorld Project\HelloWorld\Debug\HelloWorld.exe
+C:\Users\WAEL\Desktop\MyRepo\HelloWorld Project\HelloWorld\Debug\HelloWorld.pdb
